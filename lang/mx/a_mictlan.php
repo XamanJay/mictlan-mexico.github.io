@@ -55,7 +55,7 @@ return [
     'body-item14d' => '¿Acaso en vano venimos a vivir,',
     'body-item14e' => 'a brotar sobre la tierra?',
     'body-item14f' => 'Dejemos al menos flores',
-    'body-item14g' => 'dejemos al menos cantos”',
+    'body-item14g' => 'Dejemos al menos cantos”',
 
     'body-item15' => '',
     'body-item16' => 'Poema de Nezahualcoyotl.',
